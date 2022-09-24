@@ -1,0 +1,22 @@
+{
+  "background_color": "#000000",
+  "description": "The easiest way to build credit",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Mavumo Digital",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mavumo",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/skinnlabs/mavumo-app/main/image%20(4).png",
+      "type": "image/png",
+      "sizes": "750x750"
+    }
+  ],
+  "shortcuts": []
+}
