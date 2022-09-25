@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Mavumo",
-  "start_url": "/",
+  "start_url": "/login",
   "theme_color": "#000000",
   "categories": [],
   "screenshots": [],
